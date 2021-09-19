@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("branch 2 commit 1")
+        print("branch 2 commit 2")
     }
 
 
