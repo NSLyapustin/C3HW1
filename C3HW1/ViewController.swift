@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("branch 2 commit 1")
         print("branch 2 commit 2")
+        print("branch 2 commit 3")
     }
 
 
