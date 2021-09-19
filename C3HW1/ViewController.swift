@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    func printBranchThree() {
+        print("branch 3 commit 1, but now with amend")
+    }
 }
 
