@@ -11,7 +11,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        print("branch 2 commit 1")
+        print("branch 2 commit 2")
+        print("branch 2 commit 3")
     }
 
 
